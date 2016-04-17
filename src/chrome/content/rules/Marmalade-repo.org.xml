@@ -1,0 +1,6 @@
+<ruleset name="Marmalade-repo.org">
+	<target host="marmalade-repo.org" />
+	<target host="www.marmalade-repo.org" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>
